@@ -3,7 +3,7 @@ import React from "react";
 const Nahid = () => {
   return (
     <div>
-      <h1>Lorem ipsum dolor sit amet.</h1>
+      <h1>Hello world</h1>
     </div>
   );
 };
